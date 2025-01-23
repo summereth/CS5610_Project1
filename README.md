@@ -33,11 +33,17 @@ In this assignment you will be implementing your homepage using vanilla HTML5, C
 
 ## Instructions to build
 
-### Step 1
+### Option 1: Live Demo
+
+[Homepage](https://summereth.github.io/CS5610_Project1)
+
+### Option 2: Run locally
+
+#### Step 1
 
 Git clone this repository to your local repository.
 
-### Step 2
+#### Step 2
 
 `cd` into this repository and run `reload -b` to start your local server. This webpage will be automatically run in your browser.
 
