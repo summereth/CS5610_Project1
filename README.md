@@ -32,3 +32,9 @@ Git clone this repository to your local repository.
 `cd` into this repository and run `reload -b` to start your local server. This webpage will be automatically run in your browser.
 
 If you don't have `http-server` and `reload` installed. Run `sudo npm install -g http-server reload` to install.
+
+
+## Other Documents
+- [Google Slides](https://docs.google.com/presentation/d/1LA6EkmrGa7qBwppeXddITQe5W2JPaMPCAO7bhfIutTs/edit?usp=sharing)
+- [Video Walkthrough]()
+- [Design_Document](./design_doc.md)
