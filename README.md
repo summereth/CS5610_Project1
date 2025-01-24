@@ -52,5 +52,5 @@ If you don't have `http-server` and `reload` installed. Run `sudo npm install -g
 ## Other Documents
 
 - [Google Slides](https://docs.google.com/presentation/d/1LA6EkmrGa7qBwppeXddITQe5W2JPaMPCAO7bhfIutTs/edit?usp=sharing)
-- [Video Walkthrough](https://drive.google.com/file/d/1JgqoVLqbJqbab9okzoDznj-B5ona5Svl/view?usp=sharing)
+- [Video Walkthrough](./images/video1723248301.mp4)
 - [Design_Document](./design_doc.md)
