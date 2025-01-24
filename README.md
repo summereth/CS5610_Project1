@@ -49,6 +49,28 @@ Git clone this repository to your local repository.
 
 If you don't have `http-server` and `reload` installed. Run `sudo npm install -g http-server reload` to install.
 
+## Usage of GenAI
+
+Claude 3.5 Sonnet assisted me in finishing this project.
+
+### Use cases
+
+#### ESLint error analysis
+
+Prompt: help me analyze this error: [Error - 4:22:39 PM] Calculating config file for... (details of error message is omitted)
+
+#### Add like button with counter to header
+
+Prompt: In my html file, add a button in header <section id="header"> add a "like" button to show how many likes I have gotten. You can created related JS file. (html and css files are provided)
+
+#### Adjust stylying of my homepapge
+
+Prompt:
+
+- My phone icon is too small. How to make it bigger like the second example. (html and images are provided)
+- How should I adjust my css rule so that .features is a flexbox with several articles inside. Each article takes one row. Inside each article, img element is on the left and .textbox is on the right
+- How should I fix this error: Attribute “height” not allowed on element “tr” at this point.error(W3C_validation). My code:`<tr height="15"></tr>`
+
 ## Other Documents
 
 - [Google Slides](https://docs.google.com/presentation/d/1LA6EkmrGa7qBwppeXddITQe5W2JPaMPCAO7bhfIutTs/edit?usp=sharing)
